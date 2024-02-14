@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BugRacket</string>
+    <string name="bug_racket_opening">Bug Racket</string>
+    <string name="sign_in_button_text">sign up</string>
+    <string name="password_hint">Password</string>
+    <string name="user_name_hint">User Name</string>
+    <string name="log_in_text">Log in</string>
+    <string name="email_hint">Email</string>
+    <string name="log_in_button_text">log in</string>
+    <string name="confirm_button_text">confirm</string>
+    <string name="avatar">avatar</string>
+    <string name="user_name">Welcome, User Name!</string>
+    <string name="bugs_killed_prompt">You killed 0 bugs today!</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_image">Device Image</string>
+    <string name="add_friend">Add friend</string>
+    <string name="log_out">Log out</string>
+</resources>
